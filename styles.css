@@ -84,7 +84,7 @@ a {
   text-align: center;
   font-size: 20px;
   text-shadow: 0 0 5px #FFFFFF;
-}
+}/*
 .center2 {
   font-size: 30px;
   animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
@@ -100,7 +100,7 @@ a {
 }
 .box {
   text-align: center;
-}
+}*/
  /* Animation Keyframes */
 @keyframes fadeIn {
   from { 
