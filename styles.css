@@ -87,7 +87,6 @@ a {
 }
 .center2 {
   font-size: 30px;
-  padding: 10px;
   animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
 }
 .description2 {
