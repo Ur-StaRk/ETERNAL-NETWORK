@@ -47,7 +47,7 @@ a {
 }
 .centerr {
   font-size: 17px;
-  margin: 10vh 5vw 20vh 5vw;
+  margin: 20vh 2vw 30vh 2vw;
   animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
 }
 .slogan {
