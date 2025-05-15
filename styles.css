@@ -18,6 +18,7 @@ a {
   cursor: pointer;
 }
 .abt {
+  justify-content: space-between;
   margin: 0 0 0 2em;
   padding: 4px;
 }
