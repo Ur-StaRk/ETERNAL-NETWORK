@@ -46,10 +46,8 @@ a {
   animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
 }
 .centerr {
-  height: 100vh;
-  width: 100vw;
   font-size: 17px;
-  margin: 4vh 5vw 10vh 5vw;
+  margin: 10vh 5vw 20vh 5vw;
   animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
 }
 .slogan {
