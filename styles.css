@@ -94,7 +94,7 @@ a {
 .center2 {
   font-size: 30px;
   padding-top: 10px;
-  margin: 25% 10% 25% 10%;
+  margin: 25px 10px 25px 10px;
   text-align:center;
   animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
 }
