@@ -113,10 +113,10 @@ a {
 .footer p a {
   background: radial-gradient(
     circle at 100%,
-    #C7F7FE,
-    #CF6EFF 50%,
-    #C7F7FE 75%,
-    #CF6EFF 75%
+    #E0B4FF,
+    #D08DFF 50%,
+    #E0B4FF 75%,
+    #D08DFF 75%
   );
   font-weight: 600;
   background-size: 200% auto;
