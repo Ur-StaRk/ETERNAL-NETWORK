@@ -99,7 +99,9 @@ a {
   font-size: 16px;
   text-shadow: 0 0 3px #FFFFFF;
 }
-
+.box {
+  text-align: center;
+}
  /* Animation Keyframes */
 @keyframes fadeIn {
   from { 
