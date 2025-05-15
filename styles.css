@@ -39,7 +39,7 @@ a {
 }
 .center {
   font-size: 17px;
-  margin: 30vh 15vw 30vh 25vw;
+  margin: 30vh 15vw 20vh 25vw;
   animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
 }
 .centerr {
