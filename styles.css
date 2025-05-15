@@ -93,8 +93,8 @@ a {
 }
 .center2 {
   font-size: 30px;
-  padding-top: 10px;
-  margin: 20px;
+  padding: 10px;
+ /* margin: 20px;*/
   text-align:center;
   animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
 }
@@ -102,7 +102,7 @@ a {
   opacity: 0.8;
   font-size: 14px;
   text-align:center;
-  padding: 0 20px 0 20px;
+  padding: 2px;
 }
 .name2 {
   font-size: 25px;
