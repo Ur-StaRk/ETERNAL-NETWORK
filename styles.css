@@ -61,7 +61,7 @@ a {
   height: 11em;
   width: 20em;
   display: grid;
-  margin: 2em;
+  margin: 2em 2em 0 2em;
 }
 .name {
   font-size: 20px;
