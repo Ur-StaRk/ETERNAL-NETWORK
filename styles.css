@@ -39,9 +39,10 @@ a {
 }
 .center {
   font-size: 17px;
-  padding-top: 30%;
+/*  padding-top: 30%;
   margin: 50% 20% 50% 20%;
-  text-align:center;
+  text-align:center;*/
+  margin: 30vh 0 60vh 0;
   animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
 }
 .slogan {
