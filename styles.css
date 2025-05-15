@@ -42,7 +42,7 @@ a {
 /*  padding-top: 30%;
   margin: 50% 20% 50% 20%;
   text-align:center;*/
-  margin: 30vh 0 60vh 40vw;
+  margin: 30vh 0 60vh 20vw;
   animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
 }
 .slogan {
