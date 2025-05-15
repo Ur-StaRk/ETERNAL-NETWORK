@@ -86,23 +86,27 @@ a {
   text-align: center;
   font-size: 20px;
   text-shadow: 0 0 5px #FFFFFF;
-}/*
-.center2 {
-  font-size: 30px;
-  animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
-}
-.description2 {
-  opacity: 0.8;
-  font-size: 14px;
-  padding: 2px;
-}
-.name2 {
-  font-size: 16px;
-  text-shadow: 0 0 3px #FFFFFF;
 }
 .box {
   text-align: center;
-}*/
+}
+.contact {
+  text-align: center;
+  justify-content: space-between;
+}
+.tittle {
+  padding: 20px;
+  font-size: 20px;
+  text-shadow: 0 0 5px #FFFFFF;
+}
+.link{
+  opacity: 0.8;
+  font-size: 14px;
+}
+.heading {
+  margin: 70px;
+}
+
  /* Animation Keyframes */
 @keyframes fadeIn {
   from { 
