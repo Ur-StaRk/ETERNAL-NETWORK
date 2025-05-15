@@ -103,7 +103,13 @@ a {
 .heading {
   margin: 70px;
 }
-
+.footer {
+  text-align: center;
+}
+.footer p {
+  font-size: 14px;
+  opacity: 0.8;
+}
  /* Animation Keyframes */
 @keyframes fadeIn {
   from { 
