@@ -39,13 +39,15 @@ a {
 }
 .center {
   font-size: 17px;
-/*  padding-top: 30%;
-  margin: 50% 20% 50% 20%;
-  text-align:center;*/
   margin: 30vh 15vw 60vh 25vw;
   animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
 }
 .centerr {
+  font-size: 17px;
+  margin: 20vh 2vw 30vh 2vw;
+  animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
+}
+.c-center {  
   font-size: 17px;
   margin: 20vh 2vw 30vh 2vw;
   animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
