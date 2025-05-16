@@ -93,6 +93,7 @@ a {
 }
 .box {
   text-align: center;
+  width: 100vw;
 }
 .contact {
   text-align: center;
