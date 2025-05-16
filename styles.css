@@ -44,7 +44,7 @@ a {
 }
 .centerr {
   font-size: 17px;
-  margin: 20vh 2vw 50vh 2vw;
+  margin: 20vh 2vw 40vh 2vw;
   animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
 }
 .c-center {  
@@ -174,7 +174,7 @@ a {
 @keyframes appear {
  from {
   opacity: 0;
-  scale: 0;
+  scale: 0.8;
  }
  to {
   opacity: 1;
