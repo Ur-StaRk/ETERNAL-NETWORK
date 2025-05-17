@@ -49,7 +49,7 @@ a {
   animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
 }
 .c-center {  
-  font-size: 25px;
+  font-size: 22px;
   text-align: center;
   margin: 2em 0 3em 0;
   font-weight: bold;
@@ -58,7 +58,7 @@ a {
 .ccenter {
   margin: 2em 0 0 0;
   font-weight: bold;
-  font-size: 35px;
+  font-size: 30px;
   animation: fadeIn 2s linear;
   text-align: center;
 }
