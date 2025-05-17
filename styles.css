@@ -20,9 +20,9 @@ a {
 .abt {
   justify-content: center;
   justify-content: space-evenly;
-  margin: 1em 0 0 2.3em;
+  margin: 1em 0 0 1.3em;
   padding: 4px;
-  font-size: 14px;
+  font-size: 13px;
 }
 .abt a {
   animation: fadeIn 2.3s linear;
