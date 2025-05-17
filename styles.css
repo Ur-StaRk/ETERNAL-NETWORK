@@ -50,8 +50,12 @@ a {
 }
 .c-center {  
   font-size: 17px;
-  margin: 10vh 2vw 10vh 2vw;
-  animation: fadeIn 2s linear, textGlow 2s ease-in-out infinite;
+  margin: 2vh 2vw 2vh 2vw;
+  animation: fadeIn 2s linear;
+}
+.ccenter {
+  font-size: 25px;
+  animation: fadeIn 2s linear;
 }
 .slogan {
   font-size: 13px;
