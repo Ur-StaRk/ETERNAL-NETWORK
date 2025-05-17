@@ -195,6 +195,7 @@ a {
 }
 .boxx {
   margin: 2em 0 0.4em 0;
+  padding: 15px;
   text-align: center;
   justify-content: space-between;
 }
