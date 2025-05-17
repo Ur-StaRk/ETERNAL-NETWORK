@@ -51,7 +51,7 @@ a {
 .c-center {  
   font-size: 17px;
   font-weight: bold;
-  margin: 1vh 2vw 2vh 2vw;
+  margin: .5vh 2vw 2vh 0vw;
   animation: fadeIn 2s linear;
 }
 .ccenter {
