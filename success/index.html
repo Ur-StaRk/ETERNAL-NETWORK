@@ -44,7 +44,7 @@ Tʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ʀᴇᴀᴄʜɪɴɢ ᴏᴜᴛ — ᴡᴇ’ʀᴇ �
   <blockquote>
   <div class="para" style="opacity: 0.7; margin: 8em 0 0 0;">
     Yᴏᴜ'ʟʟ ʙᴇ ʀᴇᴅɪʀᴇᴄᴛᴇᴅ ᴛᴏ ᴛʜᴇ Cᴏɴᴛᴀᴄᴛ Pᴀɢᴇ ɪɴ <span id="countdown" style="color: red;">10</span> secs
-  <p class="para">Sᴛᴜᴄᴋᴇᴅ ʜᴇʀᴇ ? <a href="/contact">Cʟɪᴄᴋ ᴍᴇ</a></p>
+  <p class="para">Sᴛᴜᴄᴋᴇᴅ ʜᴇʀᴇ ? <a href="/contact" style="color: red; opacity: 0.8;">Cʟɪᴄᴋ ᴍᴇ</a></p>
   </div>
   </blockquote>
   </q>
@@ -64,13 +64,13 @@ Tʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ʀᴇᴀᴄʜɪɴɢ ᴏᴜᴛ — ᴡᴇ’ʀᴇ �
 <script type="text/javascript">
     
     // Total seconds to wait
-    var seconds = 15;
+    var seconds = 20;
     
     function countdown() {
         seconds = seconds - 1;
         if (seconds < 0) {
             // Chnage your redirection link here
-            window.location = "https://eternalss.vercel.app/contact";
+            window.location = "/contact";
         } else {
             // Update remaining seconds
             document.getElementById("countdown").innerHTML = seconds;
